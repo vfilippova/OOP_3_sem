@@ -3,12 +3,12 @@
 Этот репозиторий содержит несколько лабораторных работ по C#, каждая из которых направлена на изучение и применение различных аспектов объектно-ориентированного программирования (ООП), проектирования систем и принципов программирования.
 
 ## Содержание
-- [Лабораторная 0: Isu](#lab0)
-- [Лабораторная 1: Shops](#lab1)
-- [Лабораторная 2: Isu.Extra](#lab2)
-- [Лабораторная 3: Backups](#lab3)
-- [Лабораторная 4: Banks](#lab4)
-- [Лабораторная 5: Backups.Extra](#lab5)
+- [Лабораторная 0: Isu](https://github.com/vfilippova/OOP_3_sem/tree/main/Lab0)
+- [Лабораторная 1: Shops](https://github.com/vfilippova/OOP_3_sem/tree/main/Lab1)
+- [Лабораторная 2: Isu.Extra](https://github.com/vfilippova/OOP_3_sem/tree/main/Lab2)
+- [Лабораторная 3: Backups](https://github.com/vfilippova/OOP_3_sem/tree/main/Lab3)
+- [Лабораторная 4: Banks](https://github.com/vfilippova/OOP_3_sem/tree/main/Lab4)
+- [Лабораторная 5: Backups.Extra](https://github.com/vfilippova/OOP_3_sem/tree/main/Lab5)
 
 ## Лабораторная 0: Isu
 
